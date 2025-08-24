@@ -1,0 +1,43 @@
+body{
+    background-color: #80d5f1;
+    font: normal 15pt Arial;
+}
+header{
+    font-size: 40px;
+    text-align: center;
+    margin: 15px;
+}
+
+section{
+    background-color: white;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.418);
+
+}
+
+img#bola{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    margin: 10px;
+}
+
+footer{
+    text-align: center;
+    margin: 10px;
+}
+
+a{
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
